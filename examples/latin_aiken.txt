@@ -1,0 +1,1330 @@
+minor
+A. körül 
+B. sarló 
+C. nyílás, szájadék 
+D. nyakszirt 
+E. kisebb 
+ANSWER: E
+diaphysis
+A. csöves csontok középdarabja 
+B. lábközép 
+C. külső 
+D. koponya 
+E. keresztcsonti 
+ANSWER: A
+inguinalis
+A. szájadék, nyílás 
+B. rövid 
+C. benyomat 
+D. lágyékhoz tartozó 
+E. sajkaszerű, csónakszerű 
+ANSWER: D
+incisura
+A. hónalj 
+B. kúp alakú 
+C. fekvő 
+D. bemetszés 
+E. hasadék, rés 
+ANSWER: D
+axilla
+A. rostaszerű 
+B. ajak 
+C. hónalj 
+D. nagy 
+E. szagláshoz tartozó 
+ANSWER: C
+maximus
+A. porc 
+B. legnagyobb 
+C. kar, felkar 
+D. szeméremhez tartozó 
+E. mellkasi 
+ANSWER: B
+inter
+A. szárny alakú 
+B. bemetszés 
+C. rész 
+D. között 
+E. ízületi felszínt hordozó csontdudor 
+ANSWER: D
+epicondylus
+A. nyúlvány a condylus felett 
+B. a test középvonalához 
+C. izompólya, kötőszöveti lemez 
+D. taraj, léc 
+E. hátsó 
+ANSWER: A
+lentiformis
+A. nyakszirthez tartozó 
+B. oldalsó 
+C. lencse alakú 
+D. kéz 
+E. sérv 
+ANSWER: C
+medialis
+A. nyúlvány a condylus felett 
+B. keresztcsonti 
+C. tok 
+D. csípő 
+E. a test középvonalához 
+ANSWER: E
+os,
+A. lábközép 
+B. ossis csont 
+C. függőleges 
+D. szájadék, nyílás 
+E. kis kampó 
+ANSWER: B
+pes
+A. kéztő 
+B. porc 
+C. fésű, taréj 
+D. kis domb 
+E. láb 
+ANSWER: E
+perineum
+A. gát 
+B. háti, háthoz tartozó 
+C. tér, terület 
+D. korong 
+E. kis kampó 
+ANSWER: A
+rostrum
+A. sarló alakú 
+B. csőr 
+C. bokához tartozó 
+D. kúp alakú 
+E. levezető csatorna 
+ANSWER: B
+ligamentum
+A. gáthoz tartozó 
+B. járat 
+C. szalag 
+D. a törzshöz közelebb fekvő 
+E. nyílás 
+ANSWER: C
+obliquus
+A. orr 
+B. körül 
+C. ferde 
+D. fej 
+E. csúcs 
+ANSWER: C
+közelebb
+A. gáthoz tartozó 
+B. tér, terület 
+C. távolabbi 
+D. rekesz, válaszfal 
+E. fekvő 
+ANSWER: E
+regio
+A. felszín, arc 
+B. gyökér 
+C. alsó, lejjebb fekvő 
+D. tájék 
+E. homlokhoz tartozó 
+ANSWER: D
+orbicularis
+A. test 
+B. valami alatti 
+C. kis üreg 
+D. körül 
+E. kör alakú, körkörös 
+ANSWER: E
+crus
+A. tápláló 
+B. koponya 
+C. kéz 
+D. nyílás 
+E. lábszár, szár 
+ANSWER: E
+ovalis
+A. szájpad 
+B. lap, sík 
+C. fül 
+D. ovális, tojásdad 
+E. kúp alakú 
+ANSWER: D
+alveolus
+A. lábközép 
+B. kör alakú, körkörös 
+C. kicsi üreg, fogmeder 
+D. koponyabeli, koponya felé eső 
+E. fésű, taréj 
+ANSWER: C
+angulus
+A. nyílás 
+B. belső 
+C. távolabbi 
+D. szöglet 
+E. kis üreg 
+ANSWER: D
+crista
+A. ossis csont 
+B. félhold alakú ízületi porc 
+C. taraj, léc 
+D. gödör 
+E. csúcs 
+ANSWER: C
+lamina
+A. nyílás 
+B. fül 
+C. lemez 
+D. koponya 
+E. közös 
+ANSWER: C
+collum
+A. nyak 
+B. külső 
+C. felszín, arc 
+D. sajkaszerű, csónakszerű 
+E. járat 
+ANSWER: A
+lunatus
+A. csőr 
+B. csatorna 
+C. tenyéri 
+D. nyílás 
+E. hold alakú 
+ANSWER: E
+impressio
+A. benyomat 
+B. közelítés 
+C. fali 
+D. szájpadhoz tartozó 
+E. ossis csont 
+ANSWER: A
+frontalis
+A. a test középvonalához 
+B. nyúlvány a condylus felett 
+C. rész 
+D. izompólya, kötőszöveti lemez 
+E. homlokhoz tartozó 
+ANSWER: E
+ethmoidalis
+A. rostaszerű 
+B. ív 
+C. szél 
+D. ajak 
+E. keresztcsonti 
+ANSWER: A
+capsula
+A. fej 
+B. fal 
+C. tok 
+D. elülső 
+E. rész 
+ANSWER: C
+cuneiformis
+A. távolítás 
+B. ék alakú 
+C. hát 
+D. felszín, arc 
+E. orrhoz tartozó 
+ANSWER: B
+perforans
+A. ablak 
+B. nyelv 
+C. átfúró 
+D. kagyló 
+E. kis kampó 
+ANSWER: C
+cerebellum
+A. izompólya, kötőszöveti lemez 
+B. kisagy 
+C. függőleges 
+D. ízület 
+E. szeméremhez tartozó 
+ANSWER: B
+apertura
+A. nyílás 
+B. csőr 
+C. rekesz, válaszfal 
+D. hosszú 
+E. ossis csont 
+ANSWER: A
+pterygoideus
+A. szárny alakú 
+B. ovális, tojásdad 
+C. áll 
+D. ujjperc 
+E. érdes 
+ANSWER: A
+occiput
+A. közös 
+B. kis kampó 
+C. valami alatti 
+D. nyakszirt 
+E. kör alakú, körkörös 
+ANSWER: D
+coxa
+A. nyílás 
+B. hasadék, rés 
+C. hónaljhoz tartozó 
+D. csípő 
+E. ovális, tojásdad 
+ANSWER: D
+foramen
+A. tápláló 
+B. lencse 
+C. kiemelkedés 
+D. kúp alakú 
+E. lyuk 
+ANSWER: E
+postrerior
+A. boka 
+B. nyílás 
+C. orrhoz tartozó 
+D. körül 
+E. hátsó 
+ANSWER: E
+mentum
+A. áll 
+B. szegély, szél 
+C. járat 
+D. kúp alakú 
+E. nagy 
+ANSWER: A
+falciformis
+A. réteg 
+B. csípő 
+C. térd 
+D. sarló alakú 
+E. farki, test alsó vége felé eső 
+ANSWER: D
+asper
+A. sajkaszerű, csónakszerű 
+B. nyúlvány 
+C. belső 
+D. ív 
+E. érdes 
+ANSWER: E
+ala
+A. orsócsont 
+B. szagláshoz tartozó 
+C. szárny 
+D. sérv 
+E. hosszanti 
+ANSWER: C
+corpus
+A. réteg 
+B. test 
+C. tápláló 
+D. oldalsó 
+E. borda 
+ANSWER: B
+paries
+A. fal 
+B. kis üreg 
+C. a törzshöz közelebb fekvő 
+D. mély 
+E. izompólya, kötőszöveti lemez 
+ANSWER: A
+malleolus
+A. horizontális, vízszintes 
+B. könyök 
+C. boka 
+D. levezető csatorna 
+E. nyak 
+ANSWER: C
+diameter
+A. kis üreg 
+B. átmérő 
+C. szárny 
+D. boka 
+E. hát 
+ANSWER: B
+basis
+A. alap, fenék 
+B. szöglet 
+C. csőr 
+D. csonthártya 
+E. porc 
+ANSWER: A
+cortex
+A. a test feji vége felé eső 
+B. áll 
+C. kiemelkedés 
+D. középvonalban fekvő 
+E. réteg 
+ANSWER: E
+parvus
+A. lábközép 
+B. nyílás 
+C. átfúró 
+D. kicsi 
+E. koponya 
+ANSWER: D
+brachium
+A. horizontális, vízszintes 
+B. átfúró 
+C. kar, felkar 
+D. kis üreg 
+E. ág 
+ANSWER: C
+fissura
+A. lábszár, szár 
+B. függőleges 
+C. ízület 
+D. hasadék, rés 
+E. hollócsőr-szerű 
+ANSWER: D
+communis
+A. rész 
+B. ovális, tojásdad 
+C. tölcsér 
+D. közös 
+E. koponya 
+ANSWER: D
+extremitas
+A. legkülső vég 
+B. feszítés 
+C. közelítés 
+D. hónalj 
+E. a test középvonalához 
+ANSWER: A
+internus
+A. belső 
+B. ajak 
+C. homlokhoz tartozó 
+D. rekesz, válaszfal 
+E. elülső 
+ANSWER: A
+fovea
+A. horizontális, vízszintes 
+B. rész 
+C. középső 
+D. gödör 
+E. átmérő 
+ANSWER: D
+concha
+A. kagyló 
+B. sajkaszerű, csónakszerű 
+C. szemüreg 
+D. bemetszés 
+E. fali 
+ANSWER: A
+ramus
+A. ideg 
+B. porc 
+C. ág 
+D. csonthártya 
+E. rövid 
+ANSWER: C
+hiatus
+A. nyílás 
+B. gát 
+C. ovális, tojásdad 
+D. érdes 
+E. hát 
+ANSWER: A
+extensio
+A. szegély, szél 
+B. (praep.) előtt 
+C. feszítés 
+D. szél 
+E. alkar 
+ANSWER: C
+orificium
+A. fésű, taréj 
+B. nyílás 
+C. bemetszés 
+D. nyílás, szájadék 
+E. kör alakú, körkörös 
+ANSWER: D
+anterior
+A. elülső 
+B. rövid 
+C. tér, terület 
+D. csonthártya 
+E. nyúlvány a condylus felett 
+ANSWER: A
+colliculus
+A. tölcsér 
+B. kis domb 
+C. tájék 
+D. nagy 
+E. érdes 
+ANSWER: B
+labium
+A. szagláshoz tartozó 
+B. kisagy 
+C. ajak 
+D. szeméremhez tartozó 
+E. csatorna 
+ANSWER: C
+porus
+A. látáshoz tartozó 
+B. réteg 
+C. térd 
+D. szárny alakú 
+E. nyílás 
+ANSWER: E
+meniscus
+A. érdes 
+B. csatorna 
+C. porc 
+D. félhold alakú ízületi porc 
+E. ujj 
+ANSWER: D
+protuberantia
+A. kiemelkedés 
+B. nyakszirthez tartozó 
+C. szeméremhez tartozó 
+D. kúp alakú 
+E. árok, gödör 
+ANSWER: A
+orbita
+A. függőleges 
+B. hosszú 
+C. szemüreg 
+D. lemez 
+E. fej 
+ANSWER: C
+abductio
+A. távolabbi 
+B. mell 
+C. ív 
+D. távolítás 
+E. szájadék, nyílás 
+ANSWER: D
+longitudinalis
+A. hosszanti 
+B. fül 
+C. nyílás 
+D. alkar 
+E. oris száj 
+ANSWER: A
+emissarium
+A. áll 
+B. elülső 
+C. kis üreg 
+D. levezető csatorna 
+E. körül 
+ANSWER: D
+circumferentia
+A. csöves csontok középdarabja 
+B. kerület 
+C. legnagyobb 
+D. ék 
+E. ovális, tojásdad 
+ANSWER: B
+cavum
+A. csípő 
+B. üreg 
+C. körte alakú 
+D. közelítés 
+E. szagláshoz tartozó 
+ANSWER: B
+condylus
+A. ízületi felszínt hordozó csontdudor 
+B. levezető csatorna 
+C. ízület 
+D. horizontális, vízszintes 
+E. gyökér 
+ANSWER: A
+malleolaris
+A. szegély, szél 
+B. belső 
+C. bokához tartozó 
+D. lágyékhoz tartozó 
+E. legnagyobb 
+ANSWER: C
+auris
+A. has 
+B. tájék 
+C. fül 
+D. lemez 
+E. hajlítás 
+ANSWER: C
+cartilago
+A. hosszanti 
+B. csatorna 
+C. ágyéki 
+D. porc 
+E. tölcsér 
+ANSWER: D
+rectus
+A. lábszár, szár 
+B. egyenes 
+C. nagyagy 
+D. kéztő 
+E. nyelv 
+ANSWER: B
+genu
+A. bokához tartozó 
+B. fog 
+C. szegély, szél 
+D. térd 
+E. között 
+ANSWER: D
+medius
+A. középső 
+B. lyuk 
+C. has 
+D. hát 
+E. markolat 
+ANSWER: A
+manus
+A. fésű, taréj 
+B. kéz 
+C. sarló 
+D. ossis csont 
+E. hólyag 
+ANSWER: B
+cervix
+A. szembeállító 
+B. nyúlvány 
+C. nyak 
+D. ovális, tojásdad 
+E. kör alakú, körkörös 
+ANSWER: C
+fossa
+A. kerület 
+B. nyúlvány 
+C. félhold alakú ízületi porc 
+D. kis üreg 
+E. árok, gödör 
+ANSWER: E
+fenestra
+A. tájék 
+B. porc 
+C. külső 
+D. rostaszerű 
+E. ablak 
+ANSWER: E
+digitalis
+A. szegély, szél 
+B. sajkaszerű, csónakszerű 
+C. ujjhoz tartozó 
+D. alkar 
+E. kagyló 
+ANSWER: C
+sacralis
+A. keresztcsonti 
+B. nyúlvány 
+C. ék alakú 
+D. lap, sík 
+E. hold alakú 
+ANSWER: A
+ostium
+A. szájadék, nyílás 
+B. kagyló 
+C. borda 
+D. horizontális, vízszintes 
+E. izom 
+ANSWER: A
+fascia
+A. kéztő 
+B. kéz 
+C. legnagyobb 
+D. izompólya, kötőszöveti lemez 
+E. kicsi üreg, fogmeder 
+ANSWER: D
+caudalis
+A. lemez 
+B. farki, test alsó vége felé eső 
+C. rövid 
+D. kiemelkedés 
+E. szárny alakú 
+ANSWER: B
+cranium
+A. koponya 
+B. legkülső vég 
+C. kisebb 
+D. ujjperc 
+E. fésű, taréj 
+ANSWER: A
+bulla
+A. kiemelkedés 
+B. árok, gödör 
+C. koponyabeli, koponya felé eső 
+D. hajlítás 
+E. hólyag 
+ANSWER: E
+arcus
+A. orrhoz tartozó 
+B. ujjperc 
+C. kicsi üreg, fogmeder 
+D. ív 
+E. ujjhoz tartozó 
+ANSWER: D
+dens
+A. (praep.) előtt 
+B. feszítés 
+C. fog 
+D. kis üreg 
+E. ízületi felszínt hordozó csontdudor 
+ANSWER: C
+cuneus
+A. ék 
+B. borda 
+C. hosszú 
+D. orsócsonti 
+E. legnagyobb 
+ANSWER: A
+axillaris
+A. lágyékhoz tartozó 
+B. lencse alakú 
+C. hónaljhoz tartozó 
+D. szájpad 
+E. vonal 
+ANSWER: C
+opticus
+A. horizontális, vízszintes 
+B. látáshoz tartozó 
+C. lágyékhoz tartozó 
+D. lemez 
+E. szárny alakú 
+ANSWER: B
+peri-
+A. szalag 
+B. tájék 
+C. szárny 
+D. körül 
+E. távolabbi 
+ANSWER: D
+palatinus
+A. árok, gödör 
+B. szájpadhoz tartozó 
+C. lencse 
+D. izompólya, kötőszöveti lemez 
+E. hólyag 
+ANSWER: B
+phalanx
+A. medence 
+B. hónaljhoz tartozó 
+C. ujjperc 
+D. áll 
+E. fekvő 
+ANSWER: C
+magnus
+A. nyílás, szájadék 
+B. valami alatti 
+C. lágyékhoz tartozó 
+D. tölcsér 
+E. nagy 
+ANSWER: E
+adductio
+A. közelítés 
+B. rész 
+C. kis kampó 
+D. szegély, szél 
+E. érdes 
+ANSWER: A
+longus
+A. távolabbi 
+B. ág 
+C. hosszú 
+D. ovális, tojásdad 
+E. hold alakú 
+ANSWER: C
+inferior
+A. nyílás 
+B. alsó, lejjebb fekvő 
+C. szemüreg 
+D. orsócsonti 
+E. gát 
+ANSWER: B
+pars
+A. sarló 
+B. ízületi felszínt hordozó csontdudor 
+C. szél 
+D. rész 
+E. kisebb 
+ANSWER: D
+flexio
+A. farki, test alsó vége felé eső 
+B. vonal 
+C. hajlítás 
+D. has 
+E. távolabbi 
+ANSWER: C
+cerebrum
+A. nagyagy 
+B. nyúlvány a condylus felett 
+C. izom 
+D. farok 
+E. félhold alakú ízületi porc 
+ANSWER: A
+cauda
+A. farok 
+B. árok, gödör 
+C. félhold alakú ízületi porc 
+D. középvonalban fekvő 
+E. tenyéri 
+ANSWER: A
+nasus
+A. függőleges 
+B. kézközép 
+C. orr 
+D. csípő 
+E. nyúlvány a condylus felett 
+ANSWER: C
+opponens
+A. rövid 
+B. szembeállító 
+C. körül 
+D. boka 
+E. kiemelkedés 
+ANSWER: B
+lumbalis
+A. rostaszerű 
+B. ágyéki 
+C. sajkaszerű, csónakszerű 
+D. feszítés 
+E. ujjhoz tartozó 
+ANSWER: B
+palmaris
+A. alkar 
+B. sarló 
+C. tenyéri 
+D. árok, gödör 
+E. boka 
+ANSWER: C
+radialis
+A. ízület 
+B. orsócsonti 
+C. gáthoz tartozó 
+D. körül 
+E. térd 
+ANSWER: B
+navicularis
+A. mell 
+B. fésű, taréj 
+C. közös 
+D. sajkaszerű, csónakszerű 
+E. fül 
+ANSWER: D
+bursa
+A. tömlő, tasak 
+B. körül 
+C. szél 
+D. hosszanti 
+E. szembeállító 
+ANSWER: A
+pudendus
+A. függőleges 
+B. ék alakú 
+C. rostaszerű 
+D. szeméremhez tartozó 
+E. gödör 
+ANSWER: D
+caput
+A. fej 
+B. szegély, szél 
+C. nyílás 
+D. nyak 
+E. nyúlvány 
+ANSWER: A
+rostralis
+A. orr 
+B. távolítás 
+C. legnagyobb 
+D. a test feji vége felé eső 
+E. boka 
+ANSWER: D
+perpendicularis
+A. szájpad 
+B. hónaljhoz tartozó 
+C. tér, terület 
+D. függőleges 
+E. árok, gödör 
+ANSWER: D
+linea
+A. kézközép 
+B. szájpadhoz tartozó 
+C. oris száj 
+D. szemüreg 
+E. vonal 
+ANSWER: E
+diaphragma
+A. nyakszirthez tartozó 
+B. rekesz, válaszfal 
+C. kör alakú, körkörös 
+D. hosszú 
+E. a törzshöz közelebb fekvő 
+ANSWER: B
+apex
+A. gáthoz tartozó 
+B. félhold alakú ízületi porc 
+C. csúcs 
+D. ujjperc 
+E. fal 
+ANSWER: C
+parietalis
+A. lap, sík 
+B. sajkaszerű, csónakszerű 
+C. tápláló 
+D. nyakszirt 
+E. fali 
+ANSWER: E
+infundibulum
+A. csípő 
+B. sarló alakú 
+C. fal 
+D. elülső 
+E. tölcsér 
+ANSWER: E
+circum
+A. lábközép 
+B. a test középvonalához 
+C. nyílás 
+D. körül 
+E. csonthártya 
+ANSWER: D
+cranialis
+A. koponyabeli, koponya felé eső 
+B. orrhoz tartozó 
+C. koponya 
+D. korong 
+E. ovális, tojásdad 
+ANSWER: A
+lingua
+A. ferde 
+B. hold alakú 
+C. nyelv 
+D. elülső 
+E. ék 
+ANSWER: C
+horizontalis
+A. ovális, tojásdad 
+B. feszítés 
+C. nyílás 
+D. ízület 
+E. horizontális, vízszintes 
+ANSWER: E
+cochlea
+A. szegély, szél 
+B. árok, gödör 
+C. feszítés 
+D. csiga 
+E. gáthoz tartozó 
+ANSWER: D
+pectoralis
+A. mellkasi 
+B. csonthártya 
+C. szájpadhoz tartozó 
+D. lágyékhoz tartozó 
+E. mély 
+ANSWER: A
+dorsum
+A. hát 
+B. alap, fenék 
+C. jobboldali 
+D. horizontális, vízszintes 
+E. levezető csatorna 
+ANSWER: A
+margo
+A. kisebb 
+B. szél 
+C. hólyag 
+D. valami alatti 
+E. gödör 
+ANSWER: B
+antebrachium
+A. kis üreg 
+B. alkar 
+C. körül 
+D. sarló 
+E. ízületi felszínt hordozó csontdudor 
+ANSWER: B
+ante
+A. külső 
+B. legkülső vég 
+C. lencse 
+D. (praep.) előtt 
+E. ív 
+ANSWER: D
+dexter
+A. kisagy 
+B. jobboldali 
+C. csonthártya 
+D. test 
+E. has 
+ANSWER: B
+meatus
+A. járat 
+B. feszítés 
+C. hólyag 
+D. orsócsont 
+E. külső 
+ANSWER: A
+radius
+A. orsócsont 
+B. ujjperc 
+C. benyomat 
+D. árok, gödör 
+E. korong 
+ANSWER: A
+pecten
+A. körte alakú 
+B. nyak 
+C. ék alakú 
+D. félhold alakú ízületi porc 
+E. fésű, taréj 
+ANSWER: E
+conoideus
+A. kúp alakú 
+B. legkülső vég 
+C. mell 
+D. hosszanti 
+E. taraj, léc 
+ANSWER: A
+pelvis
+A. horizontális, vízszintes 
+B. medence 
+C. nagyagy 
+D. csöves csontok középdarabja 
+E. kisebb 
+ANSWER: B
+manubrium
+A. markolat 
+B. rostaszerű 
+C. körte alakú 
+D. csonthártya 
+E. hónaljhoz tartozó 
+ANSWER: A
+falx
+A. ujj 
+B. oldalsó 
+C. hasadék, rés 
+D. gödör 
+E. sarló 
+ANSWER: E
+nervus
+A. fej 
+B. taraj, léc 
+C. gyökér 
+D. ideg 
+E. korong 
+ANSWER: D
+hernia
+A. körül 
+B. fog 
+C. sérv 
+D. mellkasi 
+E. nagy 
+ANSWER: C
+proximalis
+A. lábközép 
+B. szél 
+C. tér, terület 
+D. fej 
+E. a törzshöz közelebb fekvő 
+ANSWER: E
+palatum
+A. szájpad 
+B. köbös, kocka alakú 
+C. mell 
+D. rekesz, válaszfal 
+E. szegély, szél 
+ANSWER: A
+hamulus
+A. kis kampó 
+B. kicsi 
+C. tájék 
+D. láb 
+E. nyak 
+ANSWER: A
+metatarsus
+A. tér, terület 
+B. ajak 
+C. szöglet 
+D. rész 
+E. lábközép 
+ANSWER: E
+planum
+A. lap, sík 
+B. ablak 
+C. távolabbi 
+D. lencse 
+E. rövid 
+ANSWER: A
+canalis
+A. csatorna 
+B. a test középvonalához 
+C. gát 
+D. horizontális, vízszintes 
+E. fésű, taréj 
+ANSWER: A
+cubitus
+A. üreg 
+B. tenyéri 
+C. könyök 
+D. fali 
+E. medence 
+ANSWER: C
+metacarpus
+A. köbös, kocka alakú 
+B. kézközép 
+C. nyúlvány a condylus felett 
+D. feszítés 
+E. rész 
+ANSWER: B
+biceps
+A. kétfejű 
+B. gáthoz tartozó 
+C. tölcsér 
+D. medence 
+E. rostaszerű 
+ANSWER: A
+facies
+A. lencse alakú 
+B. kis kampó 
+C. nagy 
+D. felszín, arc 
+E. hát 
+ANSWER: D
+musculus
+A. korong 
+B. izom 
+C. szél 
+D. réteg 
+E. árok, gödör 
+ANSWER: B
+radix
+A. közelítés 
+B. szárny 
+C. gyökér 
+D. elülső 
+E. homlokhoz tartozó 
+ANSWER: C
+nasalis
+A. szájpadhoz tartozó 
+B. orrhoz tartozó 
+C. fog 
+D. ferde 
+E. külső 
+ANSWER: B
+eminentia
+A. ujjhoz tartozó 
+B. kiemelkedés 
+C. csúcs 
+D. tápláló 
+E. boka 
+ANSWER: B
+limbus
+A. ízület 
+B. szegély, szél 
+C. kicsi üreg, fogmeder 
+D. ág 
+E. tenyéri 
+ANSWER: B
+perinealis
+A. orsócsont 
+B. kis domb 
+C. tömlő, tasak 
+D. érdes 
+E. gáthoz tartozó 
+ANSWER: E
+obturatorius
+A. hónalj 
+B. a test feji vége felé eső 
+C. nagyobb 
+D. körül 
+E. fedőhöz tartozó 
+ANSWER: E
+occipitalis
+A. sarló alakú 
+B. szembeállító 
+C. lyuk 
+D. nyakszirthez tartozó 
+E. kar, felkar 
+ANSWER: D
+digitus
+A. ív 
+B. szagláshoz tartozó 
+C. (praep.) előtt 
+D. ujj 
+E. között 
+ANSWER: D
+lens
+A. alkar 
+B. lencse 
+C. orrhoz tartozó 
+D. ajak 
+E. ízületi felszínt hordozó csontdudor 
+ANSWER: B
+os,
+A. csőr 
+B. nyílás 
+C. körül 
+D. oris száj 
+E. lábszár, szár 
+ANSWER: D
+piriformis
+A. mell 
+B. szöglet 
+C. körte alakú 
+D. szagláshoz tartozó 
+E. rövid 
+ANSWER: C
+discus
+A. korong 
+B. mell 
+C. szeméremhez tartozó 
+D. ajak 
+E. kúp alakú 
+ANSWER: A
+olfactorius
+A. lap, sík 
+B. csípő 
+C. csonthártya 
+D. szagláshoz tartozó 
+E. nyelv 
+ANSWER: D
+carpus
+A. kéztő 
+B. hólyag 
+C. tok 
+D. porc 
+E. kiemelkedés 
+ANSWER: A
+cavitas
+A. kicsi üreg, fogmeder 
+B. középső 
+C. szél 
+D. kis üreg 
+E. kerület 
+ANSWER: D
+coracoideus
+A. hollócsőr-szerű 
+B. kör alakú, körkörös 
+C. középső 
+D. ferde 
+E. boka 
+ANSWER: A
+abdomen
+A. lap, sík 
+B. körte alakú 
+C. has 
+D. alsó, lejjebb fekvő 
+E. lyuk 
+ANSWER: C
+processus
+A. ferde 
+B. bokához tartozó 
+C. lap, sík 
+D. sérv 
+E. nyúlvány 
+ANSWER: E
+pectus
+A. közelítés 
+B. ablak 
+C. mell 
+D. szegély, szél 
+E. hold alakú 
+ANSWER: C
+profundus
+A. csúcs 
+B. mély 
+C. ossis csont 
+D. fül 
+E. hasadék, rés 
+ANSWER: B
+cuboideus
+A. markolat 
+B. üreg 
+C. szél 
+D. köbös, kocka alakú 
+E. szeméremhez tartozó 
+ANSWER: D
+lateralis
+A. oldalsó 
+B. belső 
+C. távolítás 
+D. közös 
+E. nagy 
+ANSWER: A
+costa
+A. lágyékhoz tartozó 
+B. kéz 
+C. szájadék, nyílás 
+D. körte alakú 
+E. borda 
+ANSWER: E
+cribrosus
+A. rostaszerű 
+B. lágyékhoz tartozó 
+C. ízületi felszínt hordozó csontdudor 
+D. körte alakú 
+E. kiemelkedés 
+ANSWER: A
+area
+A. kagyló 
+B. vonal 
+C. közelítés 
+D. csiga 
+E. tér, terület 
+ANSWER: E
+nutricius
+A. kis kampó 
+B. tápláló 
+C. kézközép 
+D. nyakszirthez tartozó 
+E. borda 
+ANSWER: B
+medianus
+A. orrhoz tartozó 
+B. lágyékhoz tartozó 
+C. középvonalban fekvő 
+D. fésű, taréj 
+E. láb 
+ANSWER: C
+periosteum
+A. szemüreg 
+B. átfúró 
+C. kiemelkedés 
+D. nyílás 
+E. csonthártya 
+ANSWER: E
+infra
+A. hónalj 
+B. rekesz, válaszfal 
+C. kétfejű 
+D. valami alatti 
+E. kiemelkedés 
+ANSWER: D
+externus
+A. farki, test alsó vége felé eső 
+B. külső 
+C. tömlő, tasak 
+D. kis domb 
+E. mély 
+ANSWER: B
+major
+A. izom 
+B. kicsi üreg, fogmeder 
+C. sarló alakú 
+D. gyökér 
+E. nagyobb 
+ANSWER: E
+brevis
+A. hajlítás 
+B. homlokhoz tartozó 
+C. köbös, kocka alakú 
+D. legnagyobb 
+E. rövid 
+ANSWER: E
+distalis
+A. könyök 
+B. távolabbi 
+C. függőleges 
+D. rostaszerű 
+E. csonthártya 
+ANSWER: B
+dorsalis
+A. nagyobb 
+B. nyakszirt 
+C. háti, háthoz tartozó 
+D. nyílás 
+E. fej 
+ANSWER: C
+articulatio
+A. hónalj 
+B. nyúlvány 
+C. feszítés 
+D. nyakszirt 
+E. ízület 
+ANSWER: E
